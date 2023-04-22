@@ -1,1 +1,1 @@
-# odin-recipes
+# In this project, I made a website with 3 links to recipes for different dishes.
